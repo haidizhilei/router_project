@@ -7,7 +7,7 @@
 //
 
 #import "DAGViewController.h"
-
+#import <NSString+DAGTest.h>
 @interface DAGViewController ()
 
 @end
@@ -18,6 +18,7 @@
 {
     [super viewDidLoad];
 	// Do any additional setup after loading the view, typically from a nib.
+    [NSString test];
 }
 
 - (void)didReceiveMemoryWarning

@@ -1,0 +1,6 @@
+framework module Pods_router_project_Example {
+  umbrella header "Pods-router_project_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

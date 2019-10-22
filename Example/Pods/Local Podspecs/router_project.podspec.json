@@ -1,0 +1,22 @@
+{
+  "name": "router_project",
+  "version": "0.0.1",
+  "summary": "common repo url router lib",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Richard/router_project",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Richard": "haidizhilei@163.com"
+  },
+  "source": {
+    "git": "https://github.com/Richard/router_project.git",
+    "tag": "0.0.1"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "router_project/Classes/**/*"
+}
